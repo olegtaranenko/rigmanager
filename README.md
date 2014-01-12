@@ -1,0 +1,4 @@
+rigmanager
+==========
+
+Manages mining rigs
